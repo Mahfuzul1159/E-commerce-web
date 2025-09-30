@@ -4,7 +4,7 @@
 It includes product listing, product detail, cart UI, contact & order forms and integration points for Google Sheets (Google Apps Script) to collect orders and contact messages.  
 
 > Live demo: **[togoflow.netlify.app](https://togoflow.netlify.app/)**  
-> **Developed by:** [Sheikh Mahfuzul Islam Rafi](https://mahfuzul-islam-rafi-portfolio.netlify.app/#home)
+> **Developed by:** [Sheikh Mahfuzul Islam Rafi](https://hey-its-mahfuz-portfolio.netlify.app/#home)
 
 ---
 
